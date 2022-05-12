@@ -17,13 +17,13 @@ const detalle = [
       { id: "5", dato: "Mayor a $35", gana: "Gana $10" },
       { id: "10", dato: "Mayor a $35", gana: "Gana $20" },
       { id: "15", dato: "Mayor a $35", gana: "Gana $30" },
-      { id: "20", dato: "Mayor a $35", gana: "Gana $40" },
+      { id: "20", dato: "Mayor a $35", gana: "Gana $40 <span class='flag'>🚩</span>" },
     ],
     reembolso: "$150",
     comoAplica: "Para hacer válida esta promo asegúrate de pagar con baz",
-    TyC:'Consulta TyC de la promoción "Paga con baz" y gana más en ',
+    TyC: 'Consulta TyC de la promoción "Paga con baz" y gana más en ',
     enlace: "baz.app",
-    vigencia: "06/28/2022",
+    vigencia: "08/07/2022",
   },
   {
     id: 2,
@@ -43,13 +43,13 @@ const detalle = [
       { id: "5", dato: "Mayor a $35", gana: "Gana $10" },
       { id: "10", dato: "Mayor a $35", gana: "Gana $20" },
       { id: "15", dato: "Mayor a $35", gana: "Gana $30" },
-      { id: "20", dato: "Mayor a $35", gana: "Gana $40" },
+      { id: "20", dato: "Mayor a $35", gana: "Gana $40 <span class='flag'>🚩</span>" },
     ],
     reembolso: "$150",
     comoAplica: "Para hacer válida esta promo asegúrate de pagar con baz",
-    TyC:'Consulta TyC de la promoción "Paga con baz" y gana más en ',
+    TyC: 'Consulta TyC de la promoción "Paga con baz" y gana más en ',
     enlace: "baz.app",
-    vigencia: "06/28/2022",
+    vigencia: "08/07/2022",
   },
   {
     id: 3,
@@ -69,13 +69,13 @@ const detalle = [
       { id: "5", dato: "Mayor a $35", gana: "Gana $10" },
       { id: "10", dato: "Mayor a $35", gana: "Gana $20" },
       { id: "15", dato: "Mayor a $35", gana: "Gana $30" },
-      { id: "20", dato: "Mayor a $35", gana: "Gana $40" },
+      { id: "20", dato: "Mayor a $35", gana: "Gana $40 <span class='flag'>🚩</span>" },
     ],
     reembolso: "$150",
     comoAplica: "Para hacer válida esta promo asegúrate de pagar con baz",
     TyC: 'Consulta TyC de la promoción "Paga con baz" y gana más en ',
     enlace: "baz.app",
-    vigencia: "06/28/2022",
+    vigencia: "08/07/2022",
   },
   {
     id: 4,
@@ -95,13 +95,13 @@ const detalle = [
       { id: "5", dato: "Mayor a $35", gana: "Gana $10" },
       { id: "10", dato: "Mayor a $35", gana: "Gana $20" },
       { id: "15", dato: "Mayor a $35", gana: "Gana $30" },
-      { id: "20", dato: "Mayor a $35", gana: "Gana $40" },
+      { id: "20", dato: "Mayor a $35", gana: "Gana $40 <span class='flag'>🚩</span>" },
     ],
     reembolso: "$150",
     comoAplica: "Para hacer válida esta promo asegúrate de pagar con baz",
     TyC: 'Consulta TyC de la promoción "Paga con baz" y gana más en ',
     enlace: "baz.app",
-    vigencia: "06/28/2022",
+    vigencia: "08/07/2022",
   },
   {
     id: 5,
@@ -121,13 +121,13 @@ const detalle = [
       { id: "5", dato: "Mayor a $35", gana: "Gana $10" },
       { id: "10", dato: "Mayor a $35", gana: "Gana $20" },
       { id: "15", dato: "Mayor a $35", gana: "Gana $30" },
-      { id: "20", dato: "Mayor a $35", gana: "Gana $40" },
+      { id: "20", dato: "Mayor a $35", gana: "Gana $40 <span class='flag'>🚩</span>" },
     ],
     reembolso: "$150",
     comoAplica: "Para hacer válida esta promo asegúrate de pagar con baz",
     TyC: 'Consulta TyC de la promoción "Paga con baz" y gana más en ',
     enlace: "baz.app",
-    vigencia: "06/28/2022",
+    vigencia: "08/07/2022",
   },
 ];
 
@@ -184,13 +184,14 @@ const verDetalle = (element) => {
     container.innerHTML += `        
                 <div class="container-reembolsos">
                     <span class="circulo">${e.id}</span>
-                    <span class="dato">${e.dato} - </span>
+                    <span class="dato">${e.dato} -</span>
                     <span class="gana">${e.gana}</span>
                 </div>
                 `;
   });
 
   container.innerHTML += `
+  
           <div class="card-reembolso">
             <label class="num"> ${element.reembolso} <span class="total">Total reembolso</span></label>
             <div class="promo-valida">
