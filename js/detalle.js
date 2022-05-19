@@ -17,7 +17,7 @@ const detalle = [
       { id: "5", dato: "Mayor a $35", gana: "Gana $10" },
       { id: "10", dato: "Mayor a $35", gana: "Gana $20" },
       { id: "15", dato: "Mayor a $35", gana: "Gana $30" },
-      { id: "20", dato: "Mayor a $35", gana: "Gana $40 <span class='flag'>🚩</span>" },
+      { id: "20", dato: "Mayor a $35", gana: "Gana $40",},
     ],
     reembolso: "$150",
     comoAplica: "Para hacer válida esta promo asegúrate de pagar con baz",
@@ -43,7 +43,7 @@ const detalle = [
       { id: "5", dato: "Mayor a $35", gana: "Gana $10" },
       { id: "10", dato: "Mayor a $35", gana: "Gana $20" },
       { id: "15", dato: "Mayor a $35", gana: "Gana $30" },
-      { id: "20", dato: "Mayor a $35", gana: "Gana $40 <span class='flag'>🚩</span>" },
+      { id: "20", dato: "Mayor a $35", gana: "Gana $40",},
     ],
     reembolso: "$150",
     comoAplica: "Para hacer válida esta promo asegúrate de pagar con baz",
@@ -69,7 +69,7 @@ const detalle = [
       { id: "5", dato: "Mayor a $35", gana: "Gana $10" },
       { id: "10", dato: "Mayor a $35", gana: "Gana $20" },
       { id: "15", dato: "Mayor a $35", gana: "Gana $30" },
-      { id: "20", dato: "Mayor a $35", gana: "Gana $40 <span class='flag'>🚩</span>" },
+      { id: "20", dato: "Mayor a $35", gana: "Gana $40",},
     ],
     reembolso: "$150",
     comoAplica: "Para hacer válida esta promo asegúrate de pagar con baz",
@@ -95,7 +95,7 @@ const detalle = [
       { id: "5", dato: "Mayor a $35", gana: "Gana $10" },
       { id: "10", dato: "Mayor a $35", gana: "Gana $20" },
       { id: "15", dato: "Mayor a $35", gana: "Gana $30" },
-      { id: "20", dato: "Mayor a $35", gana: "Gana $40 <span class='flag'>🚩</span>" },
+      { id: "20", dato: "Mayor a $35", gana: "Gana $40",},
     ],
     reembolso: "$150",
     comoAplica: "Para hacer válida esta promo asegúrate de pagar con baz",
@@ -121,7 +121,7 @@ const detalle = [
       { id: "5", dato: "Mayor a $35", gana: "Gana $10" },
       { id: "10", dato: "Mayor a $35", gana: "Gana $20" },
       { id: "15", dato: "Mayor a $35", gana: "Gana $30" },
-      { id: "20", dato: "Mayor a $35", gana: "Gana $40 <span class='flag'>🚩</span>" },
+      { id: "20", dato: "Mayor a $35", gana: "Gana $40",},
     ],
     reembolso: "$150",
     comoAplica: "Para hacer válida esta promo asegúrate de pagar con baz",
@@ -168,15 +168,15 @@ const verDetalle = (element) => {
         <hr/>
         
         <div class="container-phone">
-            <img src=\"img/mobile_off.png\" class="mobile_off" />
-            <p class="mobile">${element.telefono}</p>
-            <a href="tel:+52${element.telefono}" class="mobile-call">Llamar</a>
+          <img src=\"img/mobile_off.png\" class="mobile_off" />
+          <p class="mobile">${element.telefono}</p>
+          <p href="tel:+52${element.telefono}" class="mobile-call">Llamar</p>
         </div>
         
         <hr/>
 
         <div class="container-reembolso">
-        <p class="title-reembolso">Obten reembolso por cada compra.</p>
+        <p class="title-reembolso">Conoce cuánto puedes ganar</p>
         </div>
         `;
 
