@@ -434,7 +434,7 @@ const promociones = [
   {
     id: 46,
     empresa: "Red velvet spa",
-    urlImg: "img/baz.jpg",
+    urlImg: "img/velvet.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Belleza",
@@ -461,7 +461,7 @@ const promociones = [
   {
     id: 49,
     empresa: "Papelería Victoria",
-    urlImg: "img/baz.jpg",
+    urlImg: "img/victoria.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Papelería",
@@ -469,15 +469,6 @@ const promociones = [
   },
   {
     id: 50,
-    empresa: "Clínica visual",
-    urlImg: "img/baz.jpg",
-    calificacion: 4.8,
-    highlight: "25% o cashback",
-    giro: "Salud",
-    direccion: "Av Chimalhuacán 512 Benito Juárez 57000",
-  },
-  {
-    id: 51,
     empresa: "Didacti risas",
     urlImg: "img/didactirisas.jpg",
     calificacion: 4.8,
@@ -486,7 +477,7 @@ const promociones = [
     direccion: "Av Chimalhuacán 451, Benito Juárez 57000",
   },
   {
-    id: 52,
+    id: 51,
     empresa: "Agencia de viajes HEROCHE",
     urlImg: "img/herochy.jpg",
     calificacion: 4.8,
@@ -495,7 +486,7 @@ const promociones = [
     direccion: "Av Carmelo Pérez 843 col Benito Juárez 57000",
   },
   {
-    id: 53,
+    id: 52,
     empresa: "Abarrotes y Semillas Lupita",
     urlImg: "img/lupita.jpg",
     calificacion: 4.8,
@@ -504,9 +495,9 @@ const promociones = [
     direccion: "Calle Cariño 370 Benito Juárez 57000",
   },
   {
-    id: 54,
-    empresa: "Auto Cerrajeria",
-    urlImg: "img/baz.jpg",
+    id: 53,
+    empresa: "Auto Cerrajeria Judith",
+    urlImg: "img/judith.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Servicio",
