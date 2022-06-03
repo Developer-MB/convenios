@@ -8,7 +8,7 @@ const detalle = [
     giro: "Abarrotes",
     direccion:
       "Calle Rosita Alvírez 290, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5624385283,
     descripcion:
       "VENTA DE ARTICULOS ABARROTES COMO LECHES, EMBUTIDOS, REFRESCOS, ENLATADOS",
     compra: [
@@ -35,7 +35,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Abarrotes",
     direccion: "Calle Rancho Grande 215 Benito Juarez 5700",
-    telefono: 5623447219,
+    telefono: 5523270697,
     descripcion:
       "VENTA DE ABARROTES, REFRESCOS, BOTANAS, SUAVIZANTES, SEMILLAS Y ALIMENTO DE MASCOTAS.",
     compra: [
@@ -63,7 +63,7 @@ const detalle = [
     giro: "Abarrotes",
     direccion:
       "Av. Chimalhuacán 484, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: 5520030571,
+    telefono: 5528167805,
     descripcion:
       "VENTA DE REFRESCOS, CERVEZA, PAN, BOTANA, JUGOS, SUEROS, DETERGENTE DE ROPA, SUAVIZANTES DE TELA, PASTAS PARA SOPA, PAPEL HIGIENICO",
     compra: [
@@ -90,7 +90,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Abarrotes",
     direccion: "Calle Perjura 2 Benito Juárez 57000",
-    telefono: null,
+    telefono: 5531230839,
     descripcion:
       "VENTA DE ABARROTES COMO BOTANAS REFRESCOS, GALLETAS, ENLATADOS, SUEROS AGUA EMBOTELLADA Y PAPEL ALUMINIO , SUAVIZANTE DE TELAS Y CLORO.",
     compra: [
@@ -118,7 +118,7 @@ const detalle = [
     giro: "Comida",
     direccion:
       "Av. Gustavo Baz 173, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: 5557345077,
+    telefono: 5585677166,
     descripcion:
       "VENTA  DE CREPAS, PAPAS A LA FRANCESA, CAFÉ, FRAPPES, Y CAPUCHINOS",
     compra: [
@@ -146,7 +146,7 @@ const detalle = [
     giro: "Comida",
     direccion:
       "Av. 4a. Avenida 160, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: 5579463463,
+    telefono: null,
     descripcion:
       "COMERCIO DEDICADO A LA VENTA Y CONSUMO DE ALIMENTOS Y COMIDA CASERA, POZOLE, AGUA, REFRESCOS, QUESADILLAS Y CHILAQUILES . LA ESENCIA DEL LOCAL ES LA COMIDA CORRIDA .",
     compra: [
@@ -174,7 +174,7 @@ const detalle = [
     giro: "Abarrotes",
     direccion:
       "Av. Gustavo Baz 224, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: 5513312765,
+    telefono: 5522640696,
     descripcion:
       "VENTA DE REFRESCO, BEBIDAS, BOTANAS, EMBUTIDOS, LACTEOS Y DERIVADOS",
     compra: [
@@ -230,7 +230,7 @@ const detalle = [
     giro: "Dentista",
     direccion:
       "Calle Mariquita Linda 292, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: 5510128980,
+    telefono: 5971143962,
     descripcion:
       "NEGOCIO DEDICADO AL CUIDADO DENTAL, EXTRACCIONES, ENDODONCIAS.",
     compra: [
@@ -258,7 +258,7 @@ const detalle = [
     giro: "Tlapaleria",
     direccion:
       "Av. Carmelo Pérez 625, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: 5534208569,
+    telefono: 5574495548,
     descripcion:
       "VENTA DE  ELECTRICOS, ELECTRONICOS Y MATERIAL PARA INSTALACIONES ELECTRICAS",
     compra: [
@@ -286,7 +286,7 @@ const detalle = [
     giro: "Dulceria",
     direccion:
       "Av. Chimalhuacán 474, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5530538913,
     descripcion:
       "DIRIGIDO A ESCUELAS, FIESTAS VENTA DE DULCES, PALETAS, PIÑATAS, BOTANAS, BEBIDAS COMO AGUA, FRUTSI Y BOING. EL FUERTE ES LA BOTANA Y EL DULCE",
     compra: [
@@ -314,7 +314,7 @@ const detalle = [
     giro: "Comida",
     direccion:
       "Av. 4a. Avenida 244, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: 5539950796,
+    telefono: 5521973978,
     descripcion:
       "OFRECE TACOS DE CORTES DE RES, CERDO Y EMBUTIDOS INTERNACIONALES",
     compra: [
@@ -342,7 +342,7 @@ const detalle = [
     giro: "Comida",
     direccion:
       "Av. Carmelo Pérez 677, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: 5613319800,
+    telefono: 5610923555,
     descripcion: " DESAYUNOS, COMIDA CORRIDA, AGUAS DE SABOR, Y LICUADOS",
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
@@ -369,7 +369,7 @@ const detalle = [
     giro: "Farmacia",
     direccion:
       "Av. 4a. Avenida 159, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5528860686,
     descripcion:
       "COMERCIO DESTINADO A LA VENTA DE PRODUCTOS DE MEDICAMENTOS TALES COMO ANTIBIOTICOS, SUEROS, PAÑALES, GEL, TOALLAS FEMENINAS, MEDICAMENTO GENERICO Y PRODUCTOS NATURISTAS RECARGAS Y PAGO DE SERVICIOS",
     compra: [
@@ -397,7 +397,7 @@ const detalle = [
     giro: "Belleza",
     direccion:
       "Av. Gustavo Baz 190, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5614946101,
     descripcion:
       "VENTA DE TRATAMIENTOS CAPILARES COMO CREMAS, SHAMPOO, TINTES. VENDIENDO TAMBIEN CEPILLOS, PEINES, ALICATES, PINZAS DEPILADORAS, PESTAÑAS POSTIZAS, EXTENSIONES PARA CABELLO, UÑAS Y MATERIAL PARA UÑAS DE ACRILICO",
     compra: [
@@ -425,7 +425,7 @@ const detalle = [
     giro: "Salón de fiestas",
     direccion:
       "Av. 4a. Avenida 231, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5535155808,
     descripcion: "VENTA DE ARTICULOS PARA FIESTAS, PIÑATAS , GLOBOS Y ADORNOS",
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
@@ -452,7 +452,7 @@ const detalle = [
     giro: "Comida",
     direccion:
       "Av. Gustavo Baz 297, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5514817520,
     descripcion:
       "OFRECE ANTOJITOS MEXICANOS COMO HUARACHES, PAMBAZOS, QUESADILLAS.",
     compra: [
@@ -479,7 +479,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Jugueteria",
     direccion: "Av. Vicente Villada 727 Benito Juárez 57000",
-    telefono: null,
+    telefono: 5511381183,
     descripcion:
       "LOCAL DEDICADO AL COMERCIO DE JUGUETES PARA NIÑOS Y NIÑAS COMO MONTABLES, MUÑECA, JUEGOS DIDACTICOS, CARRITOS DE CONTROL REMOTO, PATINETAS, AVALANCHAS, ASI MISMO CUENTA CON CARRIOLAS, ANDADERAS, SILLAS INFANTILES, MUEBLES PARA RECAMARA COMO BURÓ Y CAMITAS",
     compra: [
@@ -535,7 +535,7 @@ const detalle = [
     giro: "Comida",
     direccion:
       "Av. 4a. Avenida 193, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5627338516,
     descripcion: "DESAYUNOS, Y COMIDA CORRIDA ",
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
@@ -590,7 +590,7 @@ const detalle = [
     giro: "Abarrotes",
     direccion:
       "Calle Adelita 262, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5613827331,
     descripcion:
       "TIENDITA, CON VENTA DE REFRESCOS,  BOTANAS, ACEITES, CAFE DE SOBRE, CEREAL EN CAJA , IMPRESIONES, COPIAS , DOCUMENTOS PAGOS DE SERVICIO Y RECARGAS.",
     compra: [
@@ -618,7 +618,7 @@ const detalle = [
     giro: "Papelería",
     direccion:
       "Calle Mariquita Linda 268, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5539632032,
     descripcion: "VENTA DE ARTICULOS DE PAPELERIA EN GENERAL",
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
@@ -672,7 +672,7 @@ const detalle = [
     giro: "Papelería",
     direccion:
       "Calle Mariquita Linda 290, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5579463463,
     descripcion:
       "VENTA DE ARTICULOS DE PAPELERIA E IMPRESION DE TODO TIPO DE DOCUMENTOS",
     compra: [
@@ -699,7 +699,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Polleria",
     direccion: "Calle Pagaré 2, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5573614901,
     descripcion:
       "VENTA UNICAMENTE DE POLLO FRESCO COMO PECHIGA, PIERNA Y MUSLO, SURTIDA. POLLO PARA FREIR TIPO KENTUCKY",
     compra: [
@@ -726,7 +726,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Tecnología",
     direccion: "Calle Mixtecas 397 Colonia Benito Juárez 57000",
-    telefono: null,
+    telefono: 5559442697,
     descripcion:
       "REALIZAN INSTALACIONES Y REPARACIONES ELECTRICAS Y DE APARATOS ELÉCTRICOS.  ",
     compra: [
@@ -754,7 +754,7 @@ const detalle = [
     giro: "Comida",
     direccion:
       "Calle Panchita 398, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5513903763,
     descripcion:
       "TACOS DE CECINA,CAMPECHANOS, LONGANIZA, CARNE ENCHILADA, SE VENDE POR TACO Y POR KILO. SERVICIO A DOMICILIO Y EVENTOS.",
     compra: [
@@ -810,7 +810,7 @@ const detalle = [
     giro: "Comida",
     direccion:
       "Calle Isabeles 196, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5620544421,
     descripcion:
       "LOCAL PARA EL CONSUMO INTERNO Y PARA LLEVAR GRINGAS,HAMBURGUESAS, TACOS, CHILAQUILES, REFRESCOS, BOING, AGUA DE FRUTAS , JUGOS DE NARANJA. LA VENTA FUERTE SON LOS PAMBAZOS Y CHILAQUILES.",
     compra: [
@@ -837,7 +837,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Comida",
     direccion: "Calandría  244 Benito Juarez  57000",
-    telefono: null,
+    telefono: 5523072961,
     descripcion:
       "TORTILLERIA VENTA DE SALSAS, TOTOPOS, MASA A GRANEL TORTILLAS, ARROZ, CHICHARRON.",
     compra: [
@@ -865,7 +865,7 @@ const detalle = [
     giro: "Abarrotes",
     direccion:
       "Calle Mariquita Linda 292, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5510128980,
     descripcion:
       "ESTABLECIMEINTO DEDICADO A LA VENTA DE ABARROTES TALES COMO, HUEVO, AZUCAR, GALLETAS DULCES, REFRESCOS, BOTANAS, SOPAS, LECHE, PAPEL DE BAÑO, SUAVISANTES ETC.",
     compra: [
@@ -893,7 +893,7 @@ const detalle = [
     giro: "Abarrotes",
     direccion:
       "Calle Mañanitas 215, Benito Juárez, 57000, Nezahualcóyotl, México",
-    telefono: null,
+    telefono: 5534208569,
     descripcion:
       "COMERCIO DEDICADO A LA VENTA DE LACTEOS, EMBUTIDOS, DULCES, REFRESCOS, BOTANAS, COMIDA PARA PERRO Y GATO , MAIZ POZOLERO, CIGARROS, CEREALES Y BEBIDAS ENERGETIZANTES.",
     compra: [
@@ -920,7 +920,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Papelería",
     direccion: "Av. Gustavo Baz 196 Benito Juárez 57000",
-    telefono: null,
+    telefono: 5544759442,
     descripcion:
       "ESTE NEGOCIO ESTA DEDICADO A PRESENTAR SERVICIO DE COMPUTADORAS INTERNET, COPIAS, VENTA DE PAPELERIA, PLUMAS , LAPIZ, JUEGOS GEOMETRICOS, JUGUETES, PLUMONES, REGALOS, REALIZA ESCANER DE DOCUMENTOS.",
     compra: [
@@ -947,6 +947,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Belleza",
     direccion: "Av Chimalhuacan 567 Benito Juarez 57000 ",
+    telefono: 5620726665,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -971,6 +972,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Impresion",
     direccion: "Av Chimalhuacán 601 BENITO JUAREZ 57000 ",
+    telefono: null,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -995,6 +997,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Abarrotes",
     direccion: "Perjura 99 Benito Juárez 57000",
+    telefono: null,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1019,6 +1022,8 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Papelería",
     direccion: "Av Chimalhuacán 485 Benito Juárez 57000",
+    telefono: 5539950796
+    ,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1043,6 +1048,8 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Abarrotes",
     direccion: "Mariquita 104, vol Benito Juárez, 57000",
+    telefono: 5545565552
+    ,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1067,6 +1074,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Cremería",
     direccion: "Av Carmelo Pérez 840 Benito Juárez 57000",
+    telefono: 5520932356,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1091,6 +1099,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Abarrotes",
     direccion: "San Marqueña 106 Benito Juárez, 57000",
+    telefono: 7224597992,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1115,6 +1124,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Farmacia",
     direccion: "Cama de Piedra 51 Benito Juárez, 57000",
+    telefono: 5511898282,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1139,6 +1149,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Abarrotes",
     direccion: "Mariquita Linda 39 Benito Juárez 57000",
+    telefono: 5617189425,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1163,6 +1174,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Abarrotes",
     direccion: "Organillero 95, Benito juuarez",
+    telefono: 5537233705,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1187,6 +1199,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Comida",
     direccion: "Calle Cecilia 4 Benito Juarez 57000 ",
+    telefono: 5584777810,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1206,11 +1219,12 @@ const detalle = [
   {
     id: 46,
     empresa: "Red velvet spa",
-    urlImg: "img/redvelvet.jpg",
+    urlImg: "img/baz.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Belleza",
     direccion: "Cama de piedra 232, entre calle ardilla y cecilia",
+    telefono: 5545687151,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1235,6 +1249,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Abarrotes",
     direccion: "Las mixtecas 268, Benito Juárez 57000",
+    telefono: 5513201708,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1259,6 +1274,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Belleza",
     direccion: "Cascabel 96 col Benito Juárez",
+    telefono: null,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1278,11 +1294,12 @@ const detalle = [
   {
     id: 49,
     empresa: "Papelería Victoria",
-    urlImg: "img/victoria.jpg",
+    urlImg: "img/baz.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Papelería",
     direccion: "Escondida, 297 Benito Juárez 57000",
+    telefono: 5618271416,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1302,11 +1319,12 @@ const detalle = [
   {
     id: 50,
     empresa: "Clínica visual",
-    urlImg: "img/visual.jpg",
+    urlImg: "img/baz.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Salud",
     direccion: "Av Chimalhuacán 512 Benito Juárez 57000",
+    telefono: 5614741180,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1331,6 +1349,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Jugueteria",
     direccion: "Av Chimalhuacán 451, Benito Juárez 57000",
+    telefono: 5545454111,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1355,6 +1374,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Viajes",
     direccion: "Av Carmelo Pérez 843 col Benito Juárez 57000",
+    telefono: 5546928564,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1379,6 +1399,7 @@ const detalle = [
     highlight: "25% o cashback",
     giro: "Abarrotes",
     direccion: "Calle Cariño 370 Benito Juárez 57000",
+    telefono: 5563997584,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },
@@ -1398,11 +1419,12 @@ const detalle = [
   {
     id: 54,
     empresa: "Auto Cerrajeria",
-    urlImg: "img/cerrajeria.jpg",
+    urlImg: "img/baz.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Servicio",
     direccion: "Carmelo Perez 749 Benito Juárez 57000",
+    telefono: 5576169133,
     compra: [
       { id: "1", dato: "Pago mayor a $35", gana: "Gana $20" },
       { id: "2", dato: "Pago mayor a $35", gana: "Gana $10" },

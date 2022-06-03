@@ -434,7 +434,7 @@ const promociones = [
   {
     id: 46,
     empresa: "Red velvet spa",
-    urlImg: "img/redvelvet.jpg",
+    urlImg: "img/baz.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Belleza",
@@ -461,7 +461,7 @@ const promociones = [
   {
     id: 49,
     empresa: "Papelería Victoria",
-    urlImg: "img/victoria.jpg",
+    urlImg: "img/baz.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Papelería",
@@ -470,7 +470,7 @@ const promociones = [
   {
     id: 50,
     empresa: "Clínica visual",
-    urlImg: "img/visual.jpg",
+    urlImg: "img/baz.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Salud",
@@ -506,7 +506,7 @@ const promociones = [
   {
     id: 54,
     empresa: "Auto Cerrajeria",
-    urlImg: "img/cerrajeria.jpg",
+    urlImg: "img/baz.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Servicio",
