@@ -80,7 +80,7 @@ const promociones = [
   {
     id: 9,
     empresa: "Dental fresh",
-    urlImg: "img/dentalfresh.jpg",
+    urlImg: "img/dentalFresh.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Dentista",
@@ -189,7 +189,7 @@ const promociones = [
   {
     id: 20,
     empresa: "Mamá cocina",
-    urlImg: "img/mamacocina.jpg",
+    urlImg: "img/mamaCocina.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Comida",
