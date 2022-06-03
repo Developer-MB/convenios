@@ -179,7 +179,7 @@ const promociones = [
   {
     id: 19,
     empresa: "Lady Barber",
-    urlImg: "img/ladybarber.jpg",
+    urlImg: "img/ladyBarber.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Belleza",
