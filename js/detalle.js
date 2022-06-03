@@ -57,7 +57,7 @@ const detalle = [
   {
     id: 3,
     empresa: "Abarrotes Las Güeras",
-    urlImg: "img/abarroteseras.jpg",
+    urlImg: "img/abarrotesweras.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Abarrotes",
