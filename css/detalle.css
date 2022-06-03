@@ -71,6 +71,12 @@ body {
     font-weight: bold;
 }
 
+.separacion{
+    margin-top: 2px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
 .discount_off {
     margin-left: 10px;
     width: 22px;
@@ -194,16 +200,16 @@ hr {
 }
 
 .dato {
-    font-size: 15px;
+    font-size: 14px;
     margin: 14px 0;
     margin-left: -45px;
 }
 
 .gana {
-    font-size: 15px;
+    font-size: 14px;
     font-weight: bold;
     margin: 14px 0;
-    margin-left: -50px;
+    margin-left: -20px;
 }
 
 .card-reembolso {
@@ -261,8 +267,10 @@ hr {
 }
 
 .tyc {
+    text-align: justify;
     font-size: 15px;
     color: #747f92;
+    padding: 0 5px;
 }
 
 .link {
