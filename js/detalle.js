@@ -290,7 +290,7 @@ const detalle = [
   {
     id: 12,
     empresa: "Abarrotes y Semillas Lupita",
-    urlImg: "img/lupita.jpg",
+    urlImg: "img/semillaslupita.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Abarrotes",
