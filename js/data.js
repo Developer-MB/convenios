@@ -218,7 +218,7 @@ const promociones = [
   {
     id: 24,
     empresa: "Dulceria y Materias Primas Karen",
-    urlImg: "img/materiasPrimas.jpg",
+    urlImg: "img/karen.jpg",
     calificacion: 4.8,
     highlight: "25% o cashback",
     giro: "Dulceria",
