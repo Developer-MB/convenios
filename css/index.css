@@ -53,10 +53,17 @@ body{
 }
 
 .journal__entry-picture{
-    height: 120px;
-    width: 120px;
     display: flex;
-    /* align-items: center; */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding-left: 10px;
+}
+
+.img{
+    height: 115px;
+    width: 115px;
 }
 
 .journal__entry-body{

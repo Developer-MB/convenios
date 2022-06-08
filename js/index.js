@@ -6,7 +6,9 @@ const verPromociones = () => {
         `<a href=\"detalle.html?id=${element.id}\">` +
         '<div class="journal__entry">' +
             '<div class="journal__entry-picture">' +
-                `<img src=\"${element.urlImg}\" width=\"120px\"/>` +
+                `<div class='img'>` +
+                    `<img src=\"${element.urlImg}\" width=\"120px\"/>` +
+                `</div>` +
             "</div>" +
             '<div class="journal__entry-body">' +
                 '<p class="journal__highlight">' +
