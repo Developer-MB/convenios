@@ -247,6 +247,15 @@ const promociones = [
   },
   {
     id: 27,
+    empresa: "Farmacia Access",
+    urlImg: "img/access.jpg",
+    calificacion: 4.8,
+    highlight: "25% o cashback",
+    giro: "Papelería",
+    direccion: "Av Chimalhuacan 452",
+  },
+  {
+    id: 28,
     empresa: "Farmacia Genéricos",
     urlImg: "img/genericos.jpg",
     calificacion: 4.8,
@@ -255,7 +264,7 @@ const promociones = [
     direccion: "Cama de Piedra 51 Benito Juárez, 57000",
   },
   {
-    id: 28,
+    id: 29,
     empresa: "Farmacia Tauro 2",
     urlImg: "img/tauro.jpg",
     calificacion: 4.8,
@@ -265,7 +274,7 @@ const promociones = [
       "Av. 4a. Avenida 159, Benito Juárez, 57000, Nezahualcóyotl, México",
   },
   {
-    id: 29,
+    id: 30,
     empresa: "Fel & Ever Productos de Belleza",
     urlImg: "img/felever.jpg",
     calificacion: 4.8,
@@ -275,7 +284,7 @@ const promociones = [
       "Av. Gustavo Baz 190, Benito Juárez, 57000, Nezahualcóyotl, México",
   },
   {
-    id: 30,
+    id: 31,
     empresa: "Fiesta shopp",
     urlImg: "img/fiestaShop.jpg",
     calificacion: 4.8,
@@ -285,7 +294,7 @@ const promociones = [
       "Av. 4a. Avenida 231, Benito Juárez, 57000, Nezahualcóyotl, México",
   },
   {
-    id: 31,
+    id: 32,
     empresa: "Huaraches Lupita",
     urlImg: "img/lupita.jpg",
     calificacion: 4.8,
@@ -295,7 +304,7 @@ const promociones = [
       "Av. Gustavo Baz 297, Benito Juárez, 57000, Nezahualcóyotl, México",
   },
   {
-    id: 32,
+    id: 33,
     empresa: "Infantiles Villada",
     urlImg: "img/villada.jpg",
     calificacion: 4.8,
@@ -304,7 +313,7 @@ const promociones = [
     direccion: "Av. Vicente Villada 727 Benito Juárez 57000",
   },
   {
-    id: 33,
+    id: 34,
     empresa: "Internet La Madrugada ",
     urlImg: "img/madrugada.jpg",
     calificacion: 4.8,
@@ -313,7 +322,7 @@ const promociones = [
     direccion: "Av. Gustavo Baz 196 Benito Juárez 57000",
   },
   {
-    id: 34,
+    id: 35,
     empresa: "Lady Barber",
     urlImg: "img/ladyBarber.jpg",
     calificacion: 4.8,
@@ -323,7 +332,7 @@ const promociones = [
       "Av. Rancho Grande 223, Benito Juárez, 57000, Nezahualcóyotl, México",
   },
   {
-    id: 35,
+    id: 36,
     empresa: "Lipstick studio",
     urlImg: "img/lipstick.jpg",
     calificacion: 4.8,
@@ -332,7 +341,7 @@ const promociones = [
     direccion: "Cascabel 96 col Benito Juárez",
   },
   {
-    id: 36,
+    id: 37,
     empresa: "Los Mezcalitos",
     urlImg: "img/mezcalitos.png",
     calificacion: 4.8,
@@ -341,7 +350,7 @@ const promociones = [
     direccion: "Av. Gustavo Baz 205, Benito Juárez, 57000, Nezahualcóyotl",
   },
   {
-    id: 37,
+    id: 38,
     empresa: "Mamá cocina",
     urlImg: "img/mamaCocina.jpg",
     calificacion: 4.8,
@@ -351,7 +360,7 @@ const promociones = [
       "Av. 4a. Avenida 193, Benito Juárez, 57000, Nezahualcóyotl, México",
   },
   {
-    id: 38,
+    id: 39,
     empresa: "Muebleria Pepes",
     urlImg: "img/pepes.jpg",
     calificacion: 4.8,
@@ -361,7 +370,7 @@ const promociones = [
       "Av. Gustavo Baz 161, Benito Juárez, 57000, Nezahualcóyotl, México",
   },
   {
-    id: 39,
+    id: 40,
     empresa: "NovaFast",
     urlImg: "img/novafast.jpg",
     calificacion: 4.8,
@@ -371,7 +380,7 @@ const promociones = [
       "Calle Adelita 262, Benito Juárez, 57000, Nezahualcóyotl, México",
   },
   {
-    id: 40,
+    id: 41,
     empresa: "Papelería ANA",
     urlImg: "img/ana.jpg",
     calificacion: 4.8,
@@ -381,7 +390,7 @@ const promociones = [
       "Calle Mariquita Linda 268, Benito Juárez, 57000, Nezahualcóyotl, México",
   },
   {
-    id: 41,
+    id: 42,
     empresa: "Papelería HA",
     urlImg: "img/ha.jpg",
     calificacion: 4.8,
@@ -389,16 +398,6 @@ const promociones = [
     giro: "Papelería",
     direccion:
       "Calle Mariquita Linda 189, Benito Juárez, 57000, Nezahualcóyotl, México",
-  },
-  {
-    id: 42,
-    empresa: "Papelería impresion digital SAYA",
-    urlImg: "img/saya.jpg",
-    calificacion: 4.8,
-    highlight: "25% o cashback",
-    giro: "Papelería",
-    direccion:
-      "Calle Mariquita Linda 290, Benito Juárez, 57000, Nezahualcóyotl, México",
   },
   {
     id: 43,
